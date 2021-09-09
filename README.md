@@ -1,2 +1,7 @@
 # interstellar-destructuring
- It is necessary.
+
+It is necessary.
+
+Bad example - sampleLousy.js
+Decent example - index.js
+
